@@ -38,3 +38,6 @@ yarn-error.log*
 
 # Contentlayer
 .contentlayer
+
+# Jetbrains IDE
+.idea
